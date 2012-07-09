@@ -11,6 +11,7 @@ namespace ConsoleApplication1
         {
             var a = 1;
             a++;
+            var b = 2;
             return;
         }
     }
